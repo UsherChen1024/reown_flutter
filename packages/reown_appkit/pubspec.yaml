@@ -31,7 +31,8 @@ dependencies:
   qr_flutter_wc: ^0.0.3
   reown_core: 
     path: ../reown_core/
-  reown_sign: ^1.1.6
+  reown_sign: 
+    path: ../reown_sign/
   shimmer: ^3.0.0
   synchronized: ^3.1.0+1
   web_socket_channel: ^3.0.1
