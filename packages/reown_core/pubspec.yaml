@@ -22,7 +22,7 @@ dependencies:
   logger: ^2.5.0
   package_info_plus: ^8.1.2
   pointycastle: ^3.9.1
-  shared_preferences: ^2.3.4
+  shared_preferences: ^2.2.2
   stack_trace: ^1.11.1
   stream_channel: ^2.1.2
   url_launcher: ^6.3.1
